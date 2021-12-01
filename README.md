@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bluespringstest
+- 👋 Hi, I’m Daniel
 - 👀 I’m interested in software testing
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on test automation projects
